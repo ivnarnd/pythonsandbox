@@ -25,6 +25,6 @@ print(miconjunto)
 miconjunto.add(6)
 print(miconjunto)
 
-#String Cadenas de texto
+#String Cadenas de texto secuenciales de caracteres inmutables
 mistr = "Hola Mundo"
 print(mistr)
